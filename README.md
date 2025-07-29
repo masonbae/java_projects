@@ -98,7 +98,7 @@ Application of Trie data structure to reconstruct sentences from strings without
 ## Technologies Used
 - **Language:** Java
 - **Development Environment:** IntelliJ IDEA (based on .iml files)
-- **Testing:** JUnit test suites for most projects
+- **Testing:** Self-written comprehensive test suites for most projects
 
 ## How to Run
 
@@ -125,12 +125,12 @@ For example:
 
 ## Testing
 
-Most projects include comprehensive test suites:
-- `CalTest.java` for Projects 1-3
-- `Project4Test.java` for Project 4
-- `DblStackTest.java` for Project 5
-- `DblQueueTest.java` and `GuitarStringTest.java` for Project 6
-- `TrieTest.java` for Project 9
+I wrote comprehensive test suites for most projects to ensure correctness and robustness:
+- `CalTest.java` for Projects 1-3 - Extensive testing of calendar operations
+- `Project4Test.java` for Project 4 - Tests for all recursive functions
+- `DblStackTest.java` for Project 5 - Stack operation edge cases
+- `DblQueueTest.java` and `GuitarStringTest.java` for Project 6 - Queue operations and sound synthesis
+- `TrieTest.java` for Project 9 - Trie insertion, search, and edge cases
 
 Run tests using:
 ```bash
@@ -146,7 +146,8 @@ Through these projects, I gained hands-on experience with:
 - Object-oriented design principles
 - File I/O and data processing
 - Real-world applications of data structures
-- Test-driven development
+- Test-driven development and writing comprehensive test suites
+- Debugging and edge case identification through self-written tests
 
 ## Honor Code
 
