@@ -1,10 +1,9 @@
-# Data Structures Class Projects (CS2201)
+# Data Structures Class Projects 
 
 This repository contains all programming assignments completed for CS2201 Data Structures at Vanderbilt University.
 
 ## Author
 - **Name:** Mason Bae
-- **VUnetID:** baemw
 - **Email:** mason.w.bae@vanderbilt.edu
 
 ## Project Overview
