@@ -96,7 +96,7 @@ Application of Trie data structure to reconstruct sentences from strings without
 
 ## Technologies Used
 - **Language:** Java
-- **Development Environment:** IntelliJ IDEA (based on .iml files)
+- **Development Environment:** IntelliJ IDEA
 - **Testing:** Self-written comprehensive test suites for most projects
 
 ## How to Run
