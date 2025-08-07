@@ -148,6 +148,3 @@ Through these projects, I gained hands-on experience with:
 - Test-driven development and writing comprehensive test suites
 - Debugging and edge case identification through self-written tests
 
-## Honor Code
-
-All projects were completed in accordance with Vanderbilt's Honor Code. Each source file includes an honor statement attesting that no unauthorized aid was given or received.
